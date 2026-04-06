@@ -54,3 +54,6 @@ Thumbs.db
 # *.rds
 # output/**/*.rds
 docs/
+
+# Windows system files
+desktop.ini
