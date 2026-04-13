@@ -1,6 +1,6 @@
 # Meta-Governance: This Repository's Dual Nature
 
-This repository is both a working project and a public template for empirical social science research (economics, finance, marketing, management, accounting, public policy).
+This repository is both a working project and a public template for empirical economics research. It can be adapted to adjacent fields (finance, accounting, marketing, management) by customizing the domain profile and journal profiles.
 
 ## Working Project
 - We develop research papers, seminars, guides, and documentation
@@ -9,7 +9,7 @@ This repository is both a working project and a public template for empirical so
 
 ## Public Template
 - Others fork this repo to run their own research workflows
-- They share the same pipeline (identify → estimate → write → submit) and tools (LaTeX, R/Stata/Python, Beamer)
+- They share the same pipeline (identify → estimate → write → submit) and tools (LaTeX, R/Python/Julia, Beamer)
 - Field-specific differences (journals, methods, conventions) are handled by `.claude/references/domain-profile.md` and `.claude/references/journal-profiles.md`
 
 ## The One Rule
